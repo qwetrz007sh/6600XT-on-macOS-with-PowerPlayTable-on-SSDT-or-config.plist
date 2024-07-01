@@ -114,7 +114,7 @@ It is up to you to choose what you prefer.
 - Without patch: base temperature is around 50º, fans are usually stopped and GeekBench 5 score is higher.
 - With patch: base temperature is below 40º, fans are always running although the noise produced is very low but GeekBench 5 score is lower.
 
-#### Framebuffers
+#### Framebuffers1
 
 This patch can be applied to the other Radeon models affected by the Monterey 12.3 issue to fix that bad behaviour and not only to disable Zero RPM.
 
